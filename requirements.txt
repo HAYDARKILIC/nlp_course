@@ -1,0 +1,34 @@
+# Core scientific stack
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+pandas>=2.1
+scikit-learn>=1.4
+
+# Deep learning
+torch>=2.2
+
+# NLP-specific
+transformers>=4.40
+datasets>=2.18
+tokenizers>=0.15
+sentencepiece>=0.2
+sacrebleu>=2.4
+rouge-score>=0.1.2
+
+# Notebooks
+jupyterlab>=4.0
+ipywidgets>=8.1
+tqdm>=4.66
+
+# Retrieval and indexing (weeks 11-12)
+faiss-cpu>=1.7
+sentence-transformers>=2.7
+
+# PEFT and alignment (week 10)
+peft>=0.10
+accelerate>=0.29
+trl>=0.8
+
+# Evaluation (week 11)
+evaluate>=0.4
