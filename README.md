@@ -1,8 +1,6 @@
 # Natural Language Processing: From First Principles to Modern LLMs
 
-A 12-week, research-grade course that rebuilds the entire NLP stack from scratch — starting from character-level text manipulation and ending at instruction-tuned large language models. Every concept is derived mathematically, implemented in pure **NumPy** or **PyTorch** (no high-level NLP libraries until the relevant primitive is fully understood), and stress-tested on real datasets.
-
-This repository is a companion to the rest of the portfolio (`advanced_llm_architecture`, `generative_artificial_intelligence`, `deep_learning`, `reinforcement_learning`). It is the bridge between classical statistical NLP and the modern transformer-based ecosystem.
+A 12-week, research-grade course that rebuilds the entire NLP stack from scratch — starting from character-level text manipulation and ending at instruction-tuned large language models. Every concept is derived mathematically, implemented in pure **NumPy** or **PyTorch** (no high-level NLP libraries until the relevant primitive is fully understood), and stress-tested on real datasets. It is the bridge between classical statistical NLP and the modern transformer-based ecosystem.
 
 ---
 
